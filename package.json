@@ -1,0 +1,18 @@
+{
+  "name": "ALLSLOT388",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ALLSLOT388 เว็บสล็อตออนไลน์เว็บตรงเครดิตฟรีด้วยระบบออโต้",
+  "keywords": [
+    "ALLSLOT388",
+    "allslot388.com",
+    "ALLSLOT388 เครดิตฟรี 10 รับ 100",
+    "ALLSLOT388 เครดิตฟรี",
+    "ALLSLOT388 เว็บตรง"
+  ],
+  "repository": "https://github.com/Xlight1/theme1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
